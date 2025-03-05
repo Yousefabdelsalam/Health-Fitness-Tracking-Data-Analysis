@@ -24,6 +24,7 @@ This project focuses on analyzing health and fitness trends using data science t
 - Download the Data_prepration and Analysis_Qaustions to view the code
 - This is the link of the dataset for see the data and download it: "https://www.kaggle.com/datasets/jijagallery/fitlife-health-and-fitness-tracking-dataset"
 ## Epsilon AI
-### **About This Project**  
-This project was developed by **[Epsilon AI](https://g.co/kgs/qzsBmWB)** to provide insights into health and fitness trends using data science and visualization techniques.
+### **About This Project** 
+Special thanks to **[Epsilon AI](https://g.co/kgs/qzsBmWB)** for their valuable training in Data Science & Machine Learning, which helped shape this project.  
+
 
