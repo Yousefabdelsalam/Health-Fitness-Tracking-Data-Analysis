@@ -19,3 +19,7 @@ This project focuses on analyzing health and fitness trends using data science t
 📂 `Streamlite_Depolyment/` – Streamlit dashboard for interactive data exploration.  
 📄 `deploy.py` – Python script for running the Streamlit application.  
 📄 `requirements.txt` – Dependencies needed to run the project.  
+
+## Note:
+- Download the Data_prepration and Analysis_Qaustions to view the code
+- This is the link of the dataset for see the data and download it: "https://www.kaggle.com/datasets/jijagallery/fitlife-health-and-fitness-tracking-dataset"
